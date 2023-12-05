@@ -1,3 +1,4 @@
+To get wheel file:  python -m pip install --only-binary=:all: pyodbc==4.0.32
 pyodbc-5.0.1-cp38-cp38-win_amd64.whl
 pyodbc-4.0.39-cp37-cp37m-win_amd64.whl
 pyodbc-4.0.32-cp37-cp37m-win_amd64.whl
